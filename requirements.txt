@@ -1,8 +1,9 @@
-librosa
-tensorflow
 numpy
+librosa
 paho-mqtt
-tensorflow-hub
 joblib
+tensorflow-cpu==2.13.0
+tensorflow-hub
 fastdtw
 supabase
+soundfile
