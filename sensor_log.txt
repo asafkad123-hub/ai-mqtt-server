@@ -1,0 +1,9 @@
+
+============================================================
+Timestamp: 2026-02-06 15:16:17
+Emotion: SAD
+HR: 0.0 bpm, RMSSD: 0.0 ms, SDNN: 0.0 ms
+Valence: -1.000, Arousal: 0.000
+Dominant Position: LYING_ON_BELLY
+Position Counts: {"STANDING/STILL": 298, "LYING_ON_BELLY": 952}
+============================================================

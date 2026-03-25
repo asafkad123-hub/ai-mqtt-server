@@ -1,0 +1,2 @@
+timestamp,avg_hr,avg_rmssd,avg_sdnn,baseline_hr,baseline_rmssd,baseline_sdnn,delta_hr_pct,delta_rmssd_pct,delta_sdnn_pct,valence,arousal,emotion,dominant_position,total_beats,contact_present,position_counts
+2026-02-06 15:16:17,0.0,0.0,0.0,80.0,70.0,60.0,-100.0,-100.0,-100.0,-1.0,0.0,SAD,LYING_ON_BELLY,0,False,"{""STANDING/STILL"": 298, ""LYING_ON_BELLY"": 952}"

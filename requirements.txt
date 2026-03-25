@@ -1,0 +1,8 @@
+librosa
+tensorflow
+numpy
+paho-mqtt
+tensorflow-hub
+joblib
+fastdtw
+supabase
